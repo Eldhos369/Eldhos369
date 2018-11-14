@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\PUbooks\PUbooks\bin\Debug\PUbooks.exe.config
+C:\Users\Student\source\repos\PUbooks\PUbooks\bin\Debug\PUbooks.exe
+C:\Users\Student\source\repos\PUbooks\PUbooks\bin\Debug\PUbooks.pdb
+C:\Users\Student\source\repos\PUbooks\PUbooks\obj\Debug\PUbooks.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\PUbooks\PUbooks\obj\Debug\PUbooks.Form1.resources
+C:\Users\Student\source\repos\PUbooks\PUbooks\obj\Debug\PUbooks.Properties.Resources.resources
+C:\Users\Student\source\repos\PUbooks\PUbooks\obj\Debug\PUbooks.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\PUbooks\PUbooks\obj\Debug\PUbooks.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\PUbooks\PUbooks\obj\Debug\PUbooks.exe
+C:\Users\Student\source\repos\PUbooks\PUbooks\obj\Debug\PUbooks.pdb
+C:\Users\Student\source\repos\PUbooks\PUbooks\bin\Debug\Database1.mdf
+C:\Users\Student\source\repos\PUbooks\PUbooks\bin\Debug\Database1_log.ldf
+C:\Users\Student\source\repos\PUbooks\PUbooks\obj\Debug\PUbooks.choice.resources
+C:\Users\Student\source\repos\PUbooks\PUbooks\obj\Debug\PUbooks.user.resources
+C:\Users\Student\source\repos\PUbooks\PUbooks\obj\Debug\PUbooks.userCon.resources
+C:\Users\Student\source\repos\PUbooks\PUbooks\obj\Debug\PUbooks.admin.resources
