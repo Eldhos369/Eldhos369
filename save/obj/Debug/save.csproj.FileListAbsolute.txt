@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\exp11\save\bin\Debug\save.dll
+C:\Users\Student\source\repos\exp11\save\bin\Debug\save.pdb
+C:\Users\Student\source\repos\exp11\save\obj\Debug\save.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\exp11\save\obj\Debug\save.dll
+C:\Users\Student\source\repos\exp11\save\obj\Debug\save.pdb
+C:\Users\Student\source\repos\exp11\save\bin\Debug\write.dll
+C:\Users\Student\source\repos\exp11\save\bin\Debug\write.pdb
+C:\Users\Student\source\repos\exp11\save\obj\Debug\save.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\exp11\save\obj\Debug\save.csproj.CopyComplete

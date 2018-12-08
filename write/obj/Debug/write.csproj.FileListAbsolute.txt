@@ -1,0 +1,5 @@
+C:\Users\Student\source\repos\exp11\write\bin\Debug\write.dll
+C:\Users\Student\source\repos\exp11\write\bin\Debug\write.pdb
+C:\Users\Student\source\repos\exp11\write\obj\Debug\write.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\exp11\write\obj\Debug\write.dll
+C:\Users\Student\source\repos\exp11\write\obj\Debug\write.pdb

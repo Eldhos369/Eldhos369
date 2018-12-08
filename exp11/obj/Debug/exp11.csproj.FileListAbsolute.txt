@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\exp11\exp11\bin\Debug\exp11.exe.config
+C:\Users\Student\source\repos\exp11\exp11\bin\Debug\exp11.exe
+C:\Users\Student\source\repos\exp11\exp11\bin\Debug\exp11.pdb
+C:\Users\Student\source\repos\exp11\exp11\obj\Debug\exp11.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\exp11\exp11\obj\Debug\exp11.Properties.Resources.resources
+C:\Users\Student\source\repos\exp11\exp11\obj\Debug\exp11.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\exp11\exp11\obj\Debug\exp11.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\exp11\exp11\obj\Debug\exp11.exe
+C:\Users\Student\source\repos\exp11\exp11\obj\Debug\exp11.pdb
+C:\Users\Student\source\repos\exp11\exp11\obj\Debug\exp11.view.resources
+C:\Users\Student\source\repos\exp11\exp11\bin\Debug\save.dll
+C:\Users\Student\source\repos\exp11\exp11\bin\Debug\save.pdb
+C:\Users\Student\source\repos\exp11\exp11\obj\Debug\exp11.csproj.CopyComplete
